@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Speed Reader</string>
+	
+	<string name="default_speed">300</string>
+	<string name="default_file">SpeedREADME.txt</string>
+	<string name="default_num_words">1</string>
+	<string name="default_num_chars">1</string>
+	
+	<string name="bookmarks_dir">bookmarks</string>
+	
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+	<string name="other">Other</string>
+	<string name="browse">Browse...</string>
+	<string name="go">Go!</string>
+	<string name="okay">Okay</string>
+	<string name="parsing">Parsing...</string>
+	<string name="loading">Loading...</string>
+	<string name="back">Back</string>
+	<string name="about">About</string>
+	<string name="bookmarks">Bookmarks</string>
+	
+	<string name="add_bookmark">Add bookmark</string>
+	<string name="delete_bookmark">Delete this bookmark?</string>
+	<string name="bookmark_added">Bookmark added. Click the menu button to view bookmarks.</string>
+	
+	<string name="choose_file">Enter the location of the text to read:</string>
+	<string name="choose_speed">Select a speed in words per minute:</string>
+	<string name="choose_num_words">Select the minimum number of words to show at once:</string>
+	<string name="choose_num_chars">Select the minimum number of characters to show at once:</string>
+	<string name="choose_color">Select a color:</string>
+	<string name="no_file">That file does not exist.</string>
+	<string name="bad_file">That is not a supported format. It cannot be displayed properly. If you really want to read it, rename it to .html or .txt.</string>
+	<string name="seek_dialog_format">of roughly %d words.</string>
+	<string name="loading_text">Have patience; this may take a while, especially for .pdf files.</string>
+	<string name="EOF">End of file.</string>
+	<string name="about_text">Speed Reader uses a method called Rapid Serial Visual Presentation to allow you to read faster by eliminating the 
+time spent in moving your eyes between words. Watch the center of the screen, do not move your eyes, and try not to 
+"subvocalize," or say the words in your head. Do not listen to music or attempt to multitask while using 
+SpeedReader. If you find it very easy to read and absorb every word, consider increasing the speed. With practice, 
+speeds of 600 wpm are not uncommon. \n
+ \n
+Supported file formats include: \n
+.txt \n
+.pdf \n
+.epub \n
+.html \n
+.xml \n
+and other markup languages \n  
+ \n
+A donation version of Speed Reader is available - search for Speed Reader Gold in the market! \n
+Gold users benefit from: \n
+The prestige of being in the elite \n
+A shiny new gold icon \n
+Updates about 15 minutes before those regular users \n
+A happier developer \n
+ \n
+Supports custom colors, any speed, and multiple words at once. \n
+ \n
+Speed Reader can also help those coping with dyslexia because it orders words correctly. Other color options can 
+also aid in reading for those suffering from dyslexia. If you are using Speed Reader because you have dyslexia, it is 
+suggested that you keep the application at a low speed. \n 
+ \n
+Speed Reader requires access to the external storage in order to convert .pdf and .epub files to .txt files. Files 
+that are not .txt files get converted to .txt, and these .txt files are saved on the external storage to be accessed 
+quickly later. \n 
+ \n
+(c) Philip Garrison, 2011</string>
+	
+</resources>

@@ -1,0 +1,7 @@
+Welcome to SpeedReader. SpeedReader uses a method called Rapid Serial Visual Presentation to allow you to read faster by eliminating the time spent in moving your eyes between words. Watch the center of the screen, do not move your eyes, and try not to "subvocalize," or say the words in your head. Do not listen to music or attempt to multitask while using SpeedReader. If you find it very easy to read and absorb every word, consider increasing the speed. With practice, speeds of 600 wpm are not uncommon.
+
+To pause, touch the screen, or push a key. If you change the location in the text, use the d-pad to select a location more accurately. The total number of words in the text is only an estimate based on the size of the file - it is not perfectly accurate. Also note that this is not a time keeper or a stopwatch, because your device takes time to display each word.
+
+To read a file, copy the file you wish to read onto your phone (this should maybe be done with a computer). Supported file formats include .txt, .pdf, .epub, .html, .xml, and other markup languages.
+
+SpeedReader can also help those coping with dyslexia because it orders words correctly. Other color options can also aid in reading for those suffering from dyslexia. If you are using SpeedReader because you have dyslexia, it is suggested that you keep the application at a low speed.

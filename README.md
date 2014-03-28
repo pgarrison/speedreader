@@ -19,4 +19,4 @@ Contributing
 
 Speed Reader has some sorely needed features and some rather bothersome bugs, so any development help is appreciated. Feel free to contribute to the issue tracker or make pull requests. A word of caution: since this was the first software project I ever did, the code has some... serious style issues. 
 
-If you want, you can reach me at (dev.philip.garrison@gmail.com)[mailto:dev.philip.garrison@gmail.com].
+If you want, you can reach me at dev.philip.garrison@gmail.com.

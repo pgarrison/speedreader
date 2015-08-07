@@ -1,6 +1,7 @@
 Speed Reader
 ===========
 
+Speed Reader is no longer being developed, and all support has ceased.
 Speed Reader is an Android application which uses Rapid Serial Visual Presentation to increase reading speed. Speed Reader is available from the Google Play store [here](https://play.google.com/store/apps/details?id=com.speedreader).
 
 Licensing
